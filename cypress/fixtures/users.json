@@ -1,0 +1,25 @@
+{
+    "login":{
+        "name":"teste",
+        "email": "manocaio2@hotmail.com",
+        "password": "123456"
+    },
+
+    "inv_pass":{
+         "email": "manocaio2@hotmail.com",
+         "password": "1234567"
+    },
+
+    "email_404":{
+        "email": "manocaio@hotmail.com",
+         "password": "1234567"
+    },
+
+    "tasks":{
+        "name":"criar tasks",
+        "email": "criar_tasks@hotmail.com",
+         "password": "123456"
+    }
+
+
+}
